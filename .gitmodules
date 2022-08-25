@@ -1,0 +1,6 @@
+[submodule "aniControl"]
+	path = aniControl
+	url = https://github.com/brunnomiguel/aniControl
+[submodule "json-server-anicontrol"]
+	path = json-server-anicontrol
+	url = https://github.com/brunnomiguel/json-server-anicontrol
